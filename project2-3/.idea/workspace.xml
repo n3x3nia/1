@@ -7,8 +7,14 @@
     <list default="true" id="c6cf3a13-7ae5-4529-9c57-12eed2e997cb" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/core/http.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/external/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/external/nager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/external/news_spaceflight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/external/weather_open_meteo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/services/import_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/api/importers.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/api/importers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/core/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/db/repositories.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/db/repositories.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/models/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/models/tasks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../w4/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w4/k.shvareva" afterDir="false" />
     </list>
@@ -35,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "p2",
-    "last_opened_file_path": "C:/Users/shvar/1/project2-3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;p2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shvar/1/project2-3&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
