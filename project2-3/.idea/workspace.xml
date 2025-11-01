@@ -11,7 +11,7 @@
       <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/external/news_spaceflight.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/external/weather_open_meteo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/k.shvareva/src/app/services/import_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/api/importers.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/api/importers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/core/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/db/repositories.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/db/repositories.py" afterDir="false" />
