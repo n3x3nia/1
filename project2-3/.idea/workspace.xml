@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6cf3a13-7ae5-4529-9c57-12eed2e997cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../project2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/.idea/project2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/k.shvareva" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../w4/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w4/k.shvareva" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../w5/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w5/k.shvareva" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../w6/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w6/k.shvareva" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/k.shvareva" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="348fYwepYJ12NX5cpKqXDX39q2D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "p2",
+    "last_opened_file_path": "C:/Users/shvar/1/project2-3"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6cf3a13-7ae5-4529-9c57-12eed2e997cb" name="Changes" comment="" />
+      <created>1760600171384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760600171384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+</project>
