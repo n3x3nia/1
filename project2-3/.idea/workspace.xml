@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6cf3a13-7ae5-4529-9c57-12eed2e997cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../project2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2/.idea/project2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2/k.shvareva" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k.shvareva/example.env" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/example.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../w4/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w4/k.shvareva" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w5/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w5/k.shvareva" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w6/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w6/k.shvareva" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +25,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "p2",
-    "last_opened_file_path": "C:/Users/shvar/1/project2-3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;p2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shvar/1/project2-3&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
