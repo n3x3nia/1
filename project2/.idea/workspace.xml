@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6cf3a13-7ae5-4529-9c57-12eed2e997cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../project2-3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2-3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2-3/.idea/project2-3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2-3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2-3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2-3/k.shvareva" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/api/importers.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/api/importers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/api/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/api/tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/cache/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/cache/redis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/cache/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/core/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/core/http.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k.shvareva/src/app/middleware/request_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/k.shvareva/src/app/middleware/request_id.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project2-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2-3/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../project2-3/k.shvareva" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../w4/k.shvareva" beforeDir="false" afterPath="$PROJECT_DIR$/../w4/k.shvareva" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Reverting in p4&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shvar/1/project2/k.shvareva&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "p2",
+    "last_opened_file_path": "C:/Users/shvar/1/project2"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="project2-3" />
